@@ -1,5 +1,5 @@
 (function() {
-  const APPS_SCRIPT_URL = "СЮДА_ВСТАВЬТЕ_ВАШ_URL";
+  const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyggk5XXmliotXDuo0IwK-QpC81lntVc9euvFFt0-1UgMkOF4Jwx_GHwtb_iDhjB_f8gw/exec";
 
   // ─── УТИЛИТЫ ────────────────────────────────────────────────
   function lbl() {
