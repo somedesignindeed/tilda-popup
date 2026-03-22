@@ -249,20 +249,4 @@
   };
 
 })();
-```
 
-Нажмите **Commit changes**.
-
----
-
-## Шаг 3 — Включить GitHub Pages
-
-1. В репозитории → **Settings**
-2. Слева → **Pages**
-3. Source: **Deploy from a branch**
-4. Branch: **main** / **(root)**
-5. Нажмите **Save**
-
-Через 1-2 минуты ваш скрипт будет доступен по адресу:
-```
-https://ВАШ_ЮЗЕР.github.io/tilda-popup/popup.js
